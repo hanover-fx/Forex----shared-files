@@ -12,11 +12,11 @@ Installation:
 Unzip the relevant file into your .../MQL4/ folder, overwriting all earlier versions if necessary.
 
 Plot News: 
-Installation file = 'Plot News v4-15.zip'
+Installation file = 'Plot News v4-15.zip'; 
 More info = http://www.forexfactory.com/showthread.php?t=549773
 
 Plot long/short retail positions: 
-Installation file = 'Plot retail data from myfxbook outlook.zip'
+Installation file = 'Plot retail data from myfxbook outlook.zip'; 
 More info = https://www.forexfactory.com/showthread.php?t=930086
 
 
