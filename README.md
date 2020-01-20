@@ -12,7 +12,7 @@ Installation:
 Unzip the relevant file into your .../MQL4/ folder, overwriting all earlier versions if necessary.
 
 Plot News: 
-Installation file = 'Plot News v4-15.zip'; 
+Installation file = 'Plot News v4-16.zip'; 
 More info = http://www.forexfactory.com/showthread.php?t=549773
 
 Plot long/short retail positions: 
